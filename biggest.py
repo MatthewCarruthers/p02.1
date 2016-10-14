@@ -32,6 +32,6 @@ def biggest(a, b, c):
     elif b >= a and b >= c:
         print(b)
 
-    else c >= a and c >= b:
+    else:
         print(c)
 
